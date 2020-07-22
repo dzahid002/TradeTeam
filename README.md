@@ -1,4 +1,2 @@
-# TradeTeam( Dhaka Stock Market Predcition) 
-Machine Learning Based Website
-
-Note- Keep vendor folder in the static folder
+It is a Machine Learning Based Web Application where people can predict future share market
+ price. The project is based on three Machine Learning Algorithm: LR, SVM and LSTM.
